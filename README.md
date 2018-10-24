@@ -26,6 +26,11 @@
 
 - [上海源涞实业](https://github.com/shengxinjing/programmer-job-blacklist/issues/157)
 
+- 杭州东融
+- 杭州庙街
+- 杭州毕方
+- 杭州训机智能
+
 ## 参考
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
 - [求职黑名单 - 可根据地域快速查询该地区的“不良”企业](https://github.com/Tao-Quixote/company-blacklist)
