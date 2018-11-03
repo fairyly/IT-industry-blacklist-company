@@ -30,6 +30,7 @@
 - 杭州庙街
 - 杭州毕方
 - 杭州训机智能
+- [浙江竹开信息科技有限公司](https://github.com/shengxinjing/programmer-job-blacklist/issues/145)
 - [杭州斐丽生物技术有限公司](https://fairyly.github.io/IT-industry-blacklist-company/%E6%9D%AD%E5%B7%9E%E6%96%90%E4%B8%BD%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8.jpg)
 
 ## 参考
