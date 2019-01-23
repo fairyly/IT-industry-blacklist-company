@@ -33,6 +33,19 @@
 - [浙江竹开信息科技有限公司](https://github.com/shengxinjing/programmer-job-blacklist/issues/145)
 - [杭州斐丽生物技术有限公司](https://fairyly.github.io/IT-industry-blacklist-company/%E6%9D%AD%E5%B7%9E%E6%96%90%E4%B8%BD%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8.jpg)
 
+- [杭州构家网络科技有限公司---没社保没公积金，无故辞退，没有补偿金，承诺好的项目奖不发](http://www.itblacklist.cn/detail/20170510/121483.html)
+- [杭州占先科技有限公司](http://www.itblacklist.cn/detail/20170510/121483.html)
+
+- [老板洗脑，单休不给工资——杭州甲骨文科技有限公司](http://www.itblacklist.cn/detail/20170614/121498.html)
+- [拖欠工资——杭州集控科技有限公司](http://www.itblacklist.cn/detail/20171020/121704.html)
+- [ 随意开人——杭州扩散云科技有限公司](http://www.itblacklist.cn/detail/20171031/121706.html)
+- [ 转正前一天辞退员工并没有补偿——杭州友荐金融信息服务有限公司]()
+- [ 拖延工资发放，拖延离职，并且离职交接一个月被区别对待，找各种理由扣除全部绩效。——杭州安存网络科技有限公司]()
+- [无故辞退员工 而且没有赔偿——杭州辉映文化传播有限公司]()
+- [拖欠工资，社保不交——杭州吾诺翰卓科技（有名微之网）]()
+- [年底无耻裁员，偷税——杭州博采网络科技股份有限公司]()
+- [ 项目做完就开除人/拖欠工资/延迟转正——杭州一码通网络科技有限公司]()
+
 ## 参考
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
 - [求职黑名单 - 可根据地域快速查询该地区的“不良”企业](https://github.com/Tao-Quixote/company-blacklist)
