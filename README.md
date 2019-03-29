@@ -50,3 +50,4 @@
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
 - [求职黑名单 - 可根据地域快速查询该地区的“不良”企业](https://github.com/Tao-Quixote/company-blacklist)
 - [IT 黑名单查询](http://www.blackdir.com/jump/index)
+- [996icu/996.ICU](https://github.com/996icu/996.ICU)
