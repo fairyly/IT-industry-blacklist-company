@@ -51,3 +51,4 @@
 - [求职黑名单 - 可根据地域快速查询该地区的“不良”企业](https://github.com/Tao-Quixote/company-blacklist)
 - [IT 黑名单查询](http://www.blackdir.com/jump/index)
 - [2019.3 --- 996icu/996.ICU](https://github.com/996icu/996.ICU)
+- [955 不加班的公司名单](https://github.com/formulahendry/955.WLB)
