@@ -53,3 +53,4 @@
 - [2019.3 --- 996icu/996.ICU](https://github.com/996icu/996.ICU)
 - [955 不加班的公司名单](https://github.com/formulahendry/955.WLB)
   - [955.WLB](https://feathub.com/formulahendry/955.WLB)
+- [996.ICU --- blacklist](https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md)
